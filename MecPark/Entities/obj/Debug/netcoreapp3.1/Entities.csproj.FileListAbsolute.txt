@@ -1,0 +1,15 @@
+E:\MecPark\Entities\bin\Debug\netcoreapp3.1\Models.dll
+E:\MecPark\Entities\obj\Debug\netcoreapp3.1\Entities.csprojAssemblyReference.cache
+E:\MecPark\Entities\obj\Debug\netcoreapp3.1\Entities.AssemblyInfoInputs.cache
+E:\MecPark\Entities\obj\Debug\netcoreapp3.1\Entities.AssemblyInfo.cs
+E:\MecPark\Entities\bin\Debug\netcoreapp3.1\Entities.deps.json
+E:\MecPark\Entities\bin\Debug\netcoreapp3.1\Entities.runtimeconfig.json
+E:\MecPark\Entities\bin\Debug\netcoreapp3.1\Entities.runtimeconfig.dev.json
+E:\MecPark\Entities\bin\Debug\netcoreapp3.1\Entities.dll
+E:\MecPark\Entities\bin\Debug\netcoreapp3.1\Entities.pdb
+E:\MecPark\Entities\bin\Debug\netcoreapp3.1\Models.pdb
+E:\MecPark\Entities\obj\Debug\netcoreapp3.1\Entities.csproj.CoreCompileInputs.cache
+E:\MecPark\Entities\obj\Debug\netcoreapp3.1\Entities.csproj.CopyComplete
+E:\MecPark\Entities\obj\Debug\netcoreapp3.1\Entities.dll
+E:\MecPark\Entities\obj\Debug\netcoreapp3.1\Entities.pdb
+E:\MecPark\Entities\obj\Debug\netcoreapp3.1\Entities.genruntimeconfig.cache

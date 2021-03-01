@@ -1,0 +1,9 @@
+E:\MecPark\Models\bin\Debug\netcoreapp3.1\Models.deps.json
+E:\MecPark\Models\bin\Debug\netcoreapp3.1\Models.dll
+E:\MecPark\Models\bin\Debug\netcoreapp3.1\Models.pdb
+E:\MecPark\Models\obj\Debug\netcoreapp3.1\Models.csprojAssemblyReference.cache
+E:\MecPark\Models\obj\Debug\netcoreapp3.1\Models.AssemblyInfoInputs.cache
+E:\MecPark\Models\obj\Debug\netcoreapp3.1\Models.AssemblyInfo.cs
+E:\MecPark\Models\obj\Debug\netcoreapp3.1\Models.csproj.CoreCompileInputs.cache
+E:\MecPark\Models\obj\Debug\netcoreapp3.1\Models.dll
+E:\MecPark\Models\obj\Debug\netcoreapp3.1\Models.pdb

@@ -1,0 +1,14 @@
+E:\MecPark\Business\bin\Debug\netcoreapp3.1\Business.deps.json
+E:\MecPark\Business\bin\Debug\netcoreapp3.1\Business.dll
+E:\MecPark\Business\bin\Debug\netcoreapp3.1\Business.pdb
+E:\MecPark\Business\bin\Debug\netcoreapp3.1\Entities.dll
+E:\MecPark\Business\bin\Debug\netcoreapp3.1\Models.dll
+E:\MecPark\Business\bin\Debug\netcoreapp3.1\Entities.pdb
+E:\MecPark\Business\bin\Debug\netcoreapp3.1\Models.pdb
+E:\MecPark\Business\obj\Debug\netcoreapp3.1\Business.csprojAssemblyReference.cache
+E:\MecPark\Business\obj\Debug\netcoreapp3.1\Business.AssemblyInfoInputs.cache
+E:\MecPark\Business\obj\Debug\netcoreapp3.1\Business.AssemblyInfo.cs
+E:\MecPark\Business\obj\Debug\netcoreapp3.1\Business.csproj.CoreCompileInputs.cache
+E:\MecPark\Business\obj\Debug\netcoreapp3.1\Business.csproj.CopyComplete
+E:\MecPark\Business\obj\Debug\netcoreapp3.1\Business.dll
+E:\MecPark\Business\obj\Debug\netcoreapp3.1\Business.pdb
